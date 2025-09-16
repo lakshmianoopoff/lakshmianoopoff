@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently pursing my Btech in Christ College of Engineering<br> I’m looking to collaborate on projects<br> I’m currently working on my technical skills  <br>
+ I’m currently pursing my Btech in Christ College of Engineering<br> I’m looking to collaborate on projects<br> 
 
 
 ## 🌐 Socials:
