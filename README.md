@@ -17,6 +17,31 @@
 
 
 ## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+</a>
+
+<a href="https://unity.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=unity" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,unity,git,vscode" />
 
