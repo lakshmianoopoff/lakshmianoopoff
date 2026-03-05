@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Lakshmi+Anoop;BTech+Student;Web+Development+Learner;Unity+Explorer&center=true&width=500&height=45">
+
 <h1  align="center">Hi, I'm Lakshmi Anoop 👋</h1>
 <p align="center">
  I’m currently pursing my Btech in Computer Science and Engineering at Christ College of Engineering<br> 
@@ -9,6 +11,17 @@
 🚀 Passionate about turning ideas into real solutions.  
 🌱 Always eager to learn something new.
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:lakshmianoop.official@gmail.com">
+<img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-anoop-91048b343)
@@ -17,7 +30,7 @@
 
 
 ## 💻 Tech Stack
-<h2>💻 Tech Stack</h2>
+
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
@@ -43,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </a>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,unity,git,vscode" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lakshmianoopoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
