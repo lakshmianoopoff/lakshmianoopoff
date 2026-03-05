@@ -1,4 +1,4 @@
-<h1  align="center">Hi, I'm Lakshmi Anoop</h1>
+<h1  align="center">Hi, I'm Lakshmi Anoop 👋</h1>
 <p align="center">
  I’m currently pursing my Btech in Computer Science and Engineering at Christ College of Engineering<br> 
  Passionate about Web Developement and Creative Tech<br> 
@@ -9,21 +9,11 @@
 🚀 Passionate about turning ideas into real solutions.  
 🌱 Always eager to learn something new.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-anoop-91048b343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshmianoop.official@gmail.com) 
-
 ## 🌐 Socials
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-anoop-91048b343
-- 📧 Email: lakshmianoop.official@gmail.com
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
+- (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) LinkedIn: https://www.linkedin.com/in/lakshmi-anoop-91048b343
+- (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) Email: lakshmianoop.official@gmail.com
+- 
 
 ## 💻 Tech Stack
 
