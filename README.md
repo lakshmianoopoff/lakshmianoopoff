@@ -1,9 +1,21 @@
-# 💫 About Me:
- I’m currently pursing my Btech in Christ College of Engineering<br> I’m looking to collaborate on projects<br> 
+<h1  align="center">Hi, I'm Lakshmi Anoop</h1>
+<p align="center">
+ I’m currently pursing my Btech in Computer Science and Engineering at Christ College of Engineering<br> 
+ Passionate about Web Developement and Creative Tech<br> 
+ I’m intrested in building projects and collaborating with developers 🚀<br> 
 
+✨ Curious mind exploring the world of technology.  
+💻 Learning Web Development and building creative projects.  
+🚀 Passionate about turning ideas into real solutions.  
+🌱 Always eager to learn something new.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-anoop-91048b343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshmianoop.official@gmail.com) 
+
+## 🌐 Socials
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-anoop-91048b343
+- 📧 Email: lakshmianoop.official@gmail.com
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -11,6 +23,12 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,unity,git,vscode" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lakshmianoopoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lakshmianoopoff&theme=dark&hide_border=false)<br/>
